@@ -162,7 +162,7 @@ void DoubleLinkedList::searchData() {
 	else{
 		cout << "\nRecord found" << endl;
 		cout << "\nRoll found:" << curr->noMhs << endl;
-		cout << "\nName:" << curr->name << endl;
+		cout << "\nName:" << curr->name << endl; 
 	}
 }
 
