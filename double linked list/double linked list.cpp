@@ -111,7 +111,7 @@ void DoubleLinkedList::traverse() {
 		while (currentNode != NULL) {
 			cout << currentNode->noMhs << " " << currentNode->name << endl;
 			currentNode = currentNode->next;
-		}
+		} 
 	}
 	
 }
